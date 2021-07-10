@@ -1,0 +1,11 @@
+# Compiled stuff
+.py[cod]
+
+
+# Environment stuff
+virtual/
+
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
