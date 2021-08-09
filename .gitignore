@@ -5,6 +5,9 @@
 # Environment stuff
 virtual/
 
+# Data files
+data/
+
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
