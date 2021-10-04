@@ -12,3 +12,5 @@ data/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# Editor files
+.vscode/
